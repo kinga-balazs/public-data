@@ -1,6 +1,6 @@
 # .PCD v0.7 - Point Cloud Data file format
 VERSION 0.7
-FIELDS x y z color_list
+FIELDS x y z color
 SIZE 4 4 4 4
 TYPE F F F F
 COUNT 1 1 1 1
