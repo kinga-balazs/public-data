@@ -1,5 +1,5 @@
 # .PCD v0.2 - Point Cloud Data file format
-COLUMNS x y z color_list
+COLUMNS x y z label
 WIDTH 1803 
 HEIGHT 1
 POINTS 1803 
